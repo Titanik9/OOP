@@ -1,7 +1,5 @@
 import re
 
-str
-
 pattern = "I want Audi"
 
 detect = r"Audi"
